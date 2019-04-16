@@ -1,2 +1,3 @@
 # WANG
-Beginner's trial
+Beginner's trial.
+Do you love the world?
